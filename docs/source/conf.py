@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Galactic Bot'
+copyright = '2024, StormyGalaxy'
+author = 'StormyGalaxy'
 
 release = '0.1'
 version = '0.1.0'
